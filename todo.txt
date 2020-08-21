@@ -1,0 +1,7 @@
+Try to optimize?
+Put name on header.hbs
+Make tokens expire
+user system with login and user specific saves/gba files
+	Check for header of user uploaded ROMs
+	Limit user to ROM space limit (give em a gig)
+	User login system that parelells ROMs and saves
