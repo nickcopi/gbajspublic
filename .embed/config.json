@@ -1,6 +1,6 @@
 {
 	"name":"GBA Online",
 	"tags":["Website"],
-	"description":"Wrap a login and serverside save storage system around an open source Javascript Game Boy Advanced Emulator.",
+	"description":"Wraps a login and serverside save storage system around an open source Javascript Game Boy Advanced Emulator.",
 	"date":"February 2018"
 }
